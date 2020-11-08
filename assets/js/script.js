@@ -3,7 +3,7 @@ $(function () {
     $('body').popover({
         selector: '[data-popover]',
         trigger: 'hover',
-        placement: 'top',
+        placement: 'left',
         delay: {
             show: 50,
             hide: 1300,
